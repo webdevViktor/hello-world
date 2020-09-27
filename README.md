@@ -1,2 +1,2 @@
 # hello-world
-Just me hello-world repository
+Just my hello-world repository
